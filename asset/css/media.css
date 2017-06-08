@@ -1,0 +1,18 @@
+@media (max-width: 767px) and (min-width: 1px){
+	#welcome{
+		height: auto;
+	}
+    .visible{
+    	text-align: left;
+    	padding: 30px;
+    	line-height: 24px;
+    }
+    .navbar-header h4{
+    	padding: 0;
+    	float: left;
+    }
+    .mobile{
+	   	margin-bottom: 50px;
+	   	text-align: center;
+    }
+}
