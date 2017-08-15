@@ -7,6 +7,9 @@
     	padding: 30px;
     	line-height: 24px;
     }
+    .navbar-default{
+        padding: 0 20px;
+    }
     .navbar-header h4{
     	padding: 0;
     	float: left;
@@ -20,5 +23,16 @@
     }
     img{
         width: 100%;
+    }
+    #excel{
+        padding: 20px;
+    }
+    #excel img{
+        max-width: 150px;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .footer-nav{
+        padding: 20px;
     }
 }
